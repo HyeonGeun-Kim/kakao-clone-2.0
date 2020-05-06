@@ -1,10 +1,19 @@
-.chat-screen {
-  background-image: url(../images/chatBg.png);
-  min-height: 100vh;
+.header-wrapper {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  padding: 10px 0px;
+  background-color: white;
 }
 
 .chats-body {
-  padding: 0px;
+  background-image: url(../images/chatBg.png);
+  min-height: 1000vh;
+}
+
+.chats-body {
+  padding: 10px 0px;
+  padding-top: 100px;
 }
 
 .chats-body .header,
