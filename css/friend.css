@@ -57,7 +57,7 @@
 .friend__now-listning span {
   opacity: 0.6;
 }
-.friend__column i {
+.friend__column .fa-play {
   font-size: 12px;
   color: #52e084;
 }
